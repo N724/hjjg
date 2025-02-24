@@ -1,0 +1,6 @@
+name: astrbot_plugin_gold
+desc: 实时黄金价格查询
+help: 发送「/gold」获取最新金价
+version: 1.0.0
+author: yourname
+repo: https://github.com/N724/hjjg
